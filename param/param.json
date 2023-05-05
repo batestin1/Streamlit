@@ -1,0 +1,7 @@
+{
+    "icon": "../img/pikachu.png",
+    "logo": "https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png",
+    "api": "https://pokeapi.co/api/v2/pokemon?limit=151",
+    "api_content": "https://pokeapi.co/api/v2/pokemon/"
+
+}
