@@ -5,10 +5,6 @@
 <h3 align="center">StreamLit Pokemon</h3>
 <h3 align="center">=================</h3>
 
-<p align="center">
-  <img src="img/capa.png">
-</p>
-
 <h3>About the project</h3>
 
 <p>The project is a study on Python's Streamlit tool on top of pokémon's api. In this project we create a local site that contains two menus; query pokémon and guess which pokémon it is. In the pokémon query, a search is performed that returns visual information of the requested pokémon. Guess what pokémon it is, this is a hangman-style game.</p>
